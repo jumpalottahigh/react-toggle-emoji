@@ -1,0 +1,26 @@
+{
+  "name": "react-toggle-emoji",
+  "version": "0.0.1",
+  "description": "React toggle component that uses emoji",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jumpalottahigh/react-toggle-emoji.git"
+  },
+  "keywords": [
+    "react",
+    "toggle",
+    "component",
+    "emoji",
+    "button"
+  ],
+  "author": "Georgi Yanev <georgiyanev.gy@gmail.com> (https://blog.georgi-yanev.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jumpalottahigh/react-toggle-emoji/issues"
+  },
+  "homepage": "https://github.com/jumpalottahigh/react-toggle-emoji#readme"
+}

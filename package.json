@@ -2,9 +2,17 @@
   "name": "react-toggle-emoji",
   "version": "0.0.1",
   "description": "React toggle component that uses emoji",
-  "main": "index.js",
+  "main": "build/index.js",
+  "peerDependencies": {
+    "react": "^16.7.0"
+  },
+  "dependencies": {
+    "react": "^16.7.0"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./node_modules/.bin/webpack --watch",
+    "build": "./node_modules/.bin/webpack"
   },
   "repository": {
     "type": "git",
@@ -22,5 +30,15 @@
   "bugs": {
     "url": "https://github.com/jumpalottahigh/react-toggle-emoji/issues"
   },
-  "homepage": "https://github.com/jumpalottahigh/react-toggle-emoji#readme"
+  "homepage": "https://github.com/jumpalottahigh/react-toggle-emoji#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.7.0",
+    "webpack": "^4.28.1",
+    "webpack-cli": "^3.2.1"
+  }
 }

@@ -1,6 +1,12 @@
 # react-toggle-emoji
 
-A small library of react toggle button components that use emoji to express themselves.
+A small library of react toggle button components that use emoji to express their state.
+
+## Live demo:
+
+[https://react-toggle-emoji.netlify.com](https://react-toggle-emoji.netlify.com/)
+
+---
 
 <img src="./react-toggle-emoji-preview.jpg" alt="preview of react-toggle-emoji components configured in different ways using props" />
 

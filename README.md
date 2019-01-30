@@ -1,5 +1,8 @@
 # react-toggle-emoji
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e828bbc2-a53a-4e1c-9529-03b5824a2751/deploy-status)](https://app.netlify.com/sites/react-toggle-emoji/deploys)
+[![Lighthouse score: 100/100](https://lighthouse-badge.appspot.com/?score=100)](https://github.com/ebidel/lighthouse-badge)
+
 A small library of react toggle button components that use emoji to express their state.
 
 ## Live demo:
